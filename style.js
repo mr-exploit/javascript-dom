@@ -50,4 +50,4 @@
     logo.src = "project-1.png";
 
     const check = document.querySelector('#accept');
-    console.log(check.checked);
+    console.log(check.checked); // memandu tentang cara memanipulasi kotak centang 
